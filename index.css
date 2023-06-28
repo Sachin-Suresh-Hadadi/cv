@@ -60,6 +60,7 @@ img[alt='sachin']
     flex-direction: column;
     flex-wrap: wrap;
     font-family: system-ui;
+    justify-content: space-evenly;
 }
 .acadamcs p
 {
